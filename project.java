@@ -1,7 +1,9 @@
-adding class
-
-Class {
- int i=10
-int k = 15
-int x = 20
-}
+<!DOCTYPE html>
+<html>
+<head>
+<title> Anil Hotel</title>
+<head>
+<body>
+Welcome To ANIL HOTEL
+</body>
+</htmal>
